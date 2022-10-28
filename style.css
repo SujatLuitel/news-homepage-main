@@ -264,6 +264,9 @@ footer{
   .hamburger{
     display: block;
   }
+  .dark-bg{
+    display: block;
+}
   .dark-bg.show{
     height: 100vh;
     width: 37%;
