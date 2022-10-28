@@ -152,6 +152,10 @@ main{
   padding: .4em 1.5em;
   letter-spacing: .2rem;
 }
+.description-paragraph button:hover{
+  cursor: pointer;
+  background-color: var(--clr-Very-dark-blue);
+}
 
 
 .new{
