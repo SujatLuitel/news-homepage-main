@@ -93,6 +93,9 @@ header{
   justify-content: space-between;
   padding-block: 1em;
 }
+.dark-bg{
+    display: none;
+}
 
 .logo span{
   font-family: serif;
